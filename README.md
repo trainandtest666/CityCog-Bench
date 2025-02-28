@@ -7,13 +7,13 @@
 
 ⬜ Code for running the benchmark with Video-LLMs (To be completed)
 
----
+
 
 ## Introduction
 
 For more details, please visit the [project website](https://embodiedcity.github.io/citycog-bench/).
 
----
+
 
 ## Citation
 If you use this project in your research, please cite the following paper:
